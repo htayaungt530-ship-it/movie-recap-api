@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+google-generativeai
+edge-tts
+python-dotenv
